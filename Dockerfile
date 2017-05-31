@@ -1,17 +1,6 @@
 #
 # hotmaps/toolbox image Dockerfile
 #
-# BACKEND
-#  Python 2.7
-#  GRASS GIS 7.2
-#
-# REST API
-#  Python 3.6
-#  Flask 0.12
-#  Flask-RESTPlus 
-#  Geoalchemy2
-#  Flask-Login 0.4.0
-#  Flask-Bcrypt 0.5
 #
 
 from ubuntu:16.04
